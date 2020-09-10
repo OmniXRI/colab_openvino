@@ -1,0 +1,2 @@
+# colab_openvino
+OpenVINO如何安裝在Colab並執行mobilenet-V1影像分類及mobilenet-SSD物件偵測範例
