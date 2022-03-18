@@ -7,4 +7,5 @@ Colab_OpenVINO_mobilenet_v1_quickstart.ipynb 簡易影像分類範例(無標籤�
 
 Colab_OpenVINO_mobilenet_v1.ipynb 完整影像分類範例（有標籤文字輸出）
 
-Colab_OpenVINO_mobilenet_v1_SSD.ipynb 完整物件偵測範例
+Colab_OpenVINO_mobilenet_v1_SSD.ipynb 完整物件偵測範例  
+註：2022/3/18更新，因mobilenet-ssd模型網路來源有問題，將範例改成下載及運行 ssd_mobilenet_v1_coco
